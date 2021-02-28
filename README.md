@@ -30,7 +30,7 @@ This pivot chart demonstrates that May is the best month for successful campaign
 
 2.	**Foresights** in G.B. play was pledged at $2,004 which is $4 over their goal and **Walken on Sunshine**, U.S. play was similar to **Fevers** goal at $10,000 and surpassed it at a pledge of $12,325. 
 
-3.Although **Walken on Sunshine** is a U.S. play, has the same goal, and was successful at reaching it- the mean goal and pledges of successful plays is around the $5,000 range. According to the statistics based on the successful and failed plays, the average higher goals closer to the $10,000 goal like **Fevers**, failed. 
+3. Although **Walken on Sunshine** is a U.S. play, has the same goal, and was successful at reaching it- the mean goal and pledges of successful plays is around the $5,000 range. According to the statistics based on the successful and failed plays, the average higher goals closer to the $10,000 goal like **Fevers**, failed. 
  
 ![image](https://user-images.githubusercontent.com/78769464/109411749-d959cc80-7969-11eb-93ee-03371bd347be.png)
 
