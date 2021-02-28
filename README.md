@@ -24,21 +24,26 @@ This pivot chart demonstrates that May is the best month for successful campaign
 
 ### Analysis of Outcomes Based on Goals
 
-1.	This pivot chart shows in comparison to other funded campaigns that plays have significantly higher amounts of campaigns tried and the successful campaigns were more than 1.5x the amount of failed.
+1. The Outcomes based on goals line graph shows the direct relationship of the percentage successful and the percentage failed. The lower the goal, the higher the percentage of success. The spikes towards the right of the graph show outliers that cause peaks in percentage failed due to the high goal not being met.
+
+![image](https://user-images.githubusercontent.com/78769464/109414005-28a5fa00-7976-11eb-853a-66fe345a8605.png)
+
+
+2.	This pivot chart shows in comparison to other funded campaigns that plays have significantly higher amounts of campaigns tried and the successful campaigns were more than 1.5x the amount of failed.
  
 ![image](https://user-images.githubusercontent.com/78769464/109411741-cd6e0a80-7969-11eb-94c0-61adea5bd54a.png)
 
-2.	**Foresights** in G.B. play was pledged at $2,004 which is $4 over their goal and **Walken on Sunshine**, U.S. play was similar to **Fevers** goal at $10,000 and surpassed it at a pledge of $12,325. 
+3.	**Foresights** in G.B. play was pledged at $2,004 which is $4 over their goal and **Walken on Sunshine**, U.S. play was similar to **Fevers** goal at $10,000 and surpassed it at a pledge of $12,325. 
 
-3. Although **Walken on Sunshine** is a U.S. play, has the same goal, and was successful at reaching it- the mean goal and pledges of successful plays is around the $5,000 range. According to the statistics based on the successful and failed plays, the average higher goals closer to the $10,000 goal like **Fevers**, failed. 
+4. Although **Walken on Sunshine** is a U.S. play, has the same goal, and was successful at reaching it- the mean goal and pledges of successful plays is around the $5,000 range. According to the statistics based on the successful and failed plays, the average higher goals closer to the $10,000 goal like **Fevers**, failed. 
  
 ![image](https://user-images.githubusercontent.com/78769464/109411749-d959cc80-7969-11eb-93ee-03371bd347be.png)
 
-4.	The Edinburgh Festival Fringe plays that Louis was interested in were all funded by Kickstarter and were all successful. It does show that the lower average donations have more backers compared to the higher priced donations. 
+5.	The Edinburgh Festival Fringe plays that Louis was interested in were all funded by Kickstarter and were all successful. It does show that the lower average donations have more backers compared to the higher priced donations. 
  
 ![image](https://user-images.githubusercontent.com/78769464/109411753-e1197100-7969-11eb-974f-e2cae81a4c60.png)
 
-5.	Based on the Box and Whisker plot – The mean goal is about $4000 but the successful campaigns have a pledged amount of about $1500. 
+6.	Based on the Box and Whisker plot – The mean goal is about $4000 but the successful campaigns have a pledged amount of about $1500. 
 
  ![image](https://user-images.githubusercontent.com/78769464/109411765-f2fb1400-7969-11eb-83f3-277222fcd43b.png)
 
